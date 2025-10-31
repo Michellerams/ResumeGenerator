@@ -3,6 +3,8 @@
 The **AI Resume Builder** is a modern web application designed to help users effortlessly create professional, customized, and **ATS-friendly** resumes. It leverages the power of **Google’s Gemini AI** to enhance content, optimize wording, and provide valuable feedback for improving resume compatibility and presentation.
 
 ---
+<img width="1573" height="724" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/c2731561-f37f-4b0f-adaa-979028f3ccf1" />
+
 
 ## 🚀 Overview
 
